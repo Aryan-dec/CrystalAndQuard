@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/CrystalAndQuard/CrystalAndQuard/blob/main/20210928_141601.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/CrystalAndQuard/CrystalAndQuard/blob/main/20211215_134737.png" height="175px"/></a>
 
 <p align="center">
   <a href="https://discord.gg/TvjrWtEuyP"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
