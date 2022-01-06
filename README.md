@@ -7,7 +7,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CrystalAndQuard&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
+ <p href="https://github.com/CrystalAndQuard?tab=followers"><img src="https://img.shields.io/github/followers/CrystalAndQuard?label=Followers&style=flat-square" alt="GitHub Badge"></a>
+
 
 
 - 🔭 I’m currently working on - **Improving my Skills and new projects**
@@ -68,8 +70,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CrystalAndQuard&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/CrystalAndQuard/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CrystalAndQuard&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
+
 
